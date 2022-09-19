@@ -1,0 +1,41 @@
+{
+  "stories": [
+    {
+      "title": "test",
+      "body": "test\n",
+      "author": "mgmg",
+      "types": [
+        "funny",
+        "romance"
+      ],
+      "id": 5
+    },
+    {
+      "title": "test2",
+      "body": "test2",
+      "author": "susu",
+      "types": [
+        "horror"
+      ],
+      "id": 6
+    },
+    {
+      "title": "fox and cat",
+      "body": "greate story",
+      "author": "aungaung",
+      "types": [
+        "funny"
+      ],
+      "id": 7
+    },
+    {
+      "title": "test3",
+      "body": "test3",
+      "author": "kyawkyaw",
+      "types": [
+        "romance"
+      ],
+      "id": 8
+    }
+  ]
+}
